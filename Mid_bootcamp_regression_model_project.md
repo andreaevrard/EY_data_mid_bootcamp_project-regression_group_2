@@ -1,6 +1,6 @@
 # Mid Bootcamp Project – Regression Model
 
-#### Team 3: Tengya Chu, Marc García & Andrea Evrard
+#### Team 2: Tengya Chu, Marc García & Andrea Evrard
 
 ### Background and objective
 
